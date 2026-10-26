@@ -1,0 +1,9 @@
+django
+psycopg2
+# psycopg2-binary
+numpy
+pandas
+geopy
+gunicorn
+uvicorn
+xmltodict
