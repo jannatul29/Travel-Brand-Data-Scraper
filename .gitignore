@@ -1,0 +1,28 @@
+.idea
+.vscode
+.pylintrc
+*.pyc
+*.log
+pgsync/.env
+pgsync/*/.env
+env
+venv
+*.idea
+*.vscode
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+
+docker-compose.yml
+staticfiles
+
+# Config file
+*/*.config.yml
+*/config/app.conf
+*/config/*.app.conf
+
+# Tmp data
+tmp/*
