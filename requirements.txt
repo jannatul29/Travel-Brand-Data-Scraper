@@ -7,3 +7,4 @@ geopy
 gunicorn
 uvicorn
 xmltodict
+sentry-sdk
