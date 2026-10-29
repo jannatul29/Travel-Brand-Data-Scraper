@@ -26,3 +26,7 @@ staticfiles
 
 # Tmp data
 tmp/*
+
+# Dynamic data
+hometogo/app_data/dynamic/*
+!hometogo/app_data/dynamic/.gitkeep
