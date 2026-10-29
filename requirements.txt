@@ -1,6 +1,7 @@
 django
 psycopg2
 # psycopg2-binary
+django-postgres-extra
 numpy
 pandas
 geopy
@@ -8,3 +9,11 @@ gunicorn
 uvicorn
 xmltodict
 sentry-sdk
+lxml
+PyYAML
+pydantic
+pandas
+numpy
+xmltodict
+requests
+Crawl4AI
