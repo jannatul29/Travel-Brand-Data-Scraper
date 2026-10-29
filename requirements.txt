@@ -17,3 +17,7 @@ numpy
 xmltodict
 requests
 Crawl4AI
+langid
+flake8
+isort
+slugify
